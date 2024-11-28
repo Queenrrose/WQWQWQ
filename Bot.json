@@ -1,0 +1,6 @@
+{
+    "Prefix": "!",
+    "ChannelId" : "Your-Voice-Channel-ID",
+    "CategoryId" : "Category-ID",
+    "OwnersId": ["Account-ID"]
+}
